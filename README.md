@@ -1,6 +1,11 @@
 # Tango
 Tango is a task planning and context management tool for Claude Code to enable Claude code work on more complex features
 
+Attributes in the context we want
+Concise
+Consistent
+Self-contained
+
 This come from my practical experience with Claude to build production grade software
 
 # Problem statements
